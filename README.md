@@ -101,15 +101,15 @@ Detailed findings are available in `reports/insights.md`.
 
 customer-churn-intelligence/
 │
-├── data/
-├── notebooks/
+├── 01_data/
+├── 02_notebooks/
 │   └── customer_churn_analysis.ipynb
 │
-├── charts/
-├── reports/
+├── 03_charts/
+├── 04_reports/
 │   └── insights.md
 │
-├── sql/
+├── 05_sql/
 ├── README.md
 └── requirements.txt
 ```
