@@ -62,7 +62,7 @@ Charts are stored in the `charts/` directory.
 
 ### Churn Distribution
 
-![Churn Distribution](charts/01_churn_distribution.png)
+![Churn Distribution](03_charts/01_churn_distribution.png)
 
 ---
 
@@ -82,7 +82,7 @@ Model evaluation includes:
 
 The confusion matrix below evaluates the model’s ability to correctly classify churned and retained customers.
 
-![Confusion Matrix](charts/06_confusion_matrix.png)
+![Confusion Matrix](03_charts/06_confusion_matrix.png)
 
 ---
 
