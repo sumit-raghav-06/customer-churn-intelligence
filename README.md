@@ -96,7 +96,7 @@ The confusion matrix below evaluates the model’s ability to correctly classify
 Detailed findings are available in `reports/insights.md`.
 
 ---
-
+```text
 # 📁 Project Structure
 
 customer-churn-intelligence/
@@ -112,7 +112,7 @@ customer-churn-intelligence/
 ├── sql/
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 # 🚀 How to Run
