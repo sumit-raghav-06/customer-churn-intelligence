@@ -64,6 +64,15 @@ Charts are stored in the `charts/` directory.
 
 ![Churn Distribution](03_charts/01_churn_distribution.png)
 
+### Tenure vs Churn
+
+![Churn Distribution](03_charts/04_Tenure_VS_churn.png)
+
+
+### Contract Type vs Churn
+
+![Churn Distribution](03_charts/02_contract_type_vs_churn.png)
+
 ---
 
 # 🤖 Machine Learning
