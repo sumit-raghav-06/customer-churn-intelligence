@@ -89,7 +89,7 @@ The confusion matrix below evaluates the model’s ability to correctly classify
 # 📌 Key Insights
 
 - Customers with month-to-month contracts show significantly higher churn rates
-- Higher monthly charges are associated with increased churn probability
+- Customers paying $65+/month churn at 2x the rate
 - Customers with shorter tenure are more likely to leave
 - The model successfully identifies a large portion of churn-risk customers
 
