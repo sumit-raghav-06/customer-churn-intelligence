@@ -75,7 +75,7 @@ Charts are stored in the `charts/` directory.
 
 ### Internet Service VS Churn
 
-![Churn Distribution](03_charts/04_internet_service_vs_churn.png)
+![Churn Distribution](03_charts/05_internet_service_vs_churn.png)
 
 ---
 
