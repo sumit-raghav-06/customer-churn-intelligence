@@ -73,6 +73,10 @@ Charts are stored in the `charts/` directory.
 
 ![Churn Distribution](03_charts/02_contract_type_vs_churn.png)
 
+### Internet Service VS Churn
+
+![Churn Distribution](03_charts/04_internet_service_vs_churn.png)
+
 ---
 
 # 🤖 Machine Learning
